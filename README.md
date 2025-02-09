@@ -60,7 +60,7 @@ super-mario-party-jamboree/
 -  assets/ : Ressources telles que les images, les icônes, les musiques et les polices.
 -  
 ##  🤝 Contribution
-Les contributions sont les bienvenues ! Pour proposer des améliorations ou signaler des problèmes, veuillez ouvrir une issue ou soumettre une pull request.
+Les contributions sont les bienvenues ! Pour proposer des améliorations ou signaler des problèmes, veuillez ouvrir une issue.
 
 
 
