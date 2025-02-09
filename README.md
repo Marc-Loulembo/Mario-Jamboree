@@ -62,8 +62,6 @@ super-mario-party-jamboree/
 ##  🤝 Contribution
 Les contributions sont les bienvenues ! Pour proposer des améliorations ou signaler des problèmes, veuillez ouvrir une issue ou soumettre une pull request.
 
-📄 Licence
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 
 
