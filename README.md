@@ -18,7 +18,7 @@ Bienvenue dans Super Mario Party Jamboree ! Cette application React Native vous 
 1.  Cloner le dépôt
 
 ```
-git clone https://github.com/votre-utilisateur/super-mario-party-jamboree.git
+git clone https://github.com/Marc-Loulembo/super-mario-party-jamboree.git
 cd super-mario-party-jamboree
 ```
 2.  Installer les dépendances
